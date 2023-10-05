@@ -1,0 +1,31 @@
+.copy_right_footer {
+
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color:wheat;
+
+}
+
+
+body {
+background-color: aquamarine;
+}
+
+
+#H1{
+font-style: oblique;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: antiquewhite;
+}
+
+#H4{
+font-size: 22px;
+}
+
+#imgbro{
+
+size: 10px;
+
+}
